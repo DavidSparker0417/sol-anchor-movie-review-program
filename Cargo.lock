@@ -185,7 +185,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "anchor-review-program"
+name = "anchor-movie-review-program"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
